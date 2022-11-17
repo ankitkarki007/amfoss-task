@@ -3,7 +3,7 @@
 **I am Ankit Karki from Palpa,Nepal studying in S3 BTech at Amrita School of Engineering(CSE 2021)**
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
-[Task-00](https://github.com/ankitkarki007/amfoss-tasks/tree/main/task-00)|Installing Ubuntu|Completed
+[Task-00](https://github.com/ankitkarki007/amfoss-task/tree/main/task-00)|Installing Ubuntu|Completed
 [Task-01](https://github.com/ankitkarki007/amfoss-tasks/tree/main/task-01)|Star all the amFOSS repositories|Completed
 [Task-02](https://github.com/ankitkarki007/amfoss-tasks/tree/main/task-02)|Terminal Hunt|Completed
 [Task-03](https://github.com/ankitkarki007/amfoss-tasks/tree/main/task-03)|Programming|5 Accepted
