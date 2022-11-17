@@ -7,7 +7,7 @@
 [Task-01]()|Staring amFOSS repositories|Completed
 [Task-02]()|Terminal Hunt|Completed
 [Task-03]()|Programming|Completed
-[Task-04]()|Debugging Derbies|Completed
+[Task-04]()|CineBot|Completed
 [Task-05]()|Rustic Scraper|Not Attempted till yet
 [Task-06]()|Geddit|Completed
 [Task-07]()|Ubiquitous UI|Completed
