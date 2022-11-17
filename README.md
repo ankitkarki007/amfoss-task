@@ -1,31 +1,28 @@
-# amfoss-tasks-
+# amfoss-tasks
 # Ankit Karki
-**I am Ankit Karki from Palpa, Nepal at Amrita School of Engineering(CSE 2021)**
+**I am Ankit Karki from Palpa,Nepal studying in S3 BTech at Amrita School of Engineering(CSE 2021)**
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
-[Task-00]()|Installing Ubuntu|Completed
-[Task-01]()|Staring amFOSS repositories|Completed
-[Task-02]()|Terminal Hunt|Completed
-[Task-03]()|Programming|Completed
-[Task-04]()|CineBot|Completed
-[Task-05]()|Rustic Scraper|Not Attempted till yet
-[Task-06]()|Geddit|Completed
-[Task-07]()|Ubiquitous UI|Completed
-[Task-08]()|Sir Perceval's quest|Completed
-[Task-09]()|Spammer_Spaghetti(Whatsapp Spammer)|Completed
-[Task-10]()|CS50|Not Attempted till yet
-[Task-11]()|Poster Design|Completed
-[Task-12]()|If maths was FUN:P|Done(Output is fine but source limit crossed) 
-[Task-13]()|Circuit Design(Arduino)|Completed
-[Task-14]()|Bandit|Completed
-[Task-15]()|Project Euler|Completed
+[Task-00](https://github.com/ankitkarki007/amfoss-tasks/tree/main/task-00)|Installing Ubuntu|Completed
+[Task-01](https://github.com/ankitkarki007/amfoss-tasks/tree/main/task-01)|Star all the amFOSS repositories|Completed
+[Task-02](https://github.com/ankitkarki007/amfoss-tasks/tree/main/task-02)|Terminal Hunt|Completed
+[Task-03](https://github.com/ankitkarki007/amfoss-tasks/tree/main/task-03)|Programming|5 Accepted
+[Task-04](https://github.com/ankitkarki007/amfoss-tasks/tree/main/task-04)|CineBot|Completed
+[Task-05](https://github.com/ankitkarki007/amfoss-tasks/tree/main/task-05)|Find the Bug|Incomplete
+[Task-06](https://github.com/ankitkarki007/amfoss-tasks/tree/main/task-06)|Flame game|Incomplete
+[Task-07](https://github.com/ankitkarki007/amfoss-tasks/tree/main/task-07)|Go WASM|Completed
+[Task-08](https://github.com/ankitkarki007/amfoss-tasks/tree/main/task-08)|Internet Explorer|Completed
+[Task-09](https://github.com/ankitkarki007/amfoss-tasks/tree/main/task-09)|Krypto Scrapper|Completed
+[Task-10](https://github.com/ankitkarki007/amfoss-tasks/tree/main/task-10)|CS50|Completed
+[Task-11](https://github.com/ankitkarki007/amfoss-tasks/tree/main/task-11)|Figma Ninja|Incomplete
+[Task-12](https://github.com/ankitkarki007/amfoss-tasks/tree/main/task-12)|Bunny Heist|Incomplete 
+[Task-13](https://github.com/ankitkarki007/amfoss-tasks/tree/main/task-13)|Footfall counter|Incomplete
+[Task-14](https://github.com/ankitkarki007/amfoss-tasks/tree/main/task-14)|Bandit|Completed
+[Task-15](https://github.com/ankitkarki007/amfoss-tasks/tree/main/task-15)|Project Euler|Completed
 ## My views about the tasks
-I myself have not completed all the tasks so i cannot directly say that they were easy but yaa they were not of that type that they 
-would be out of the range of freshers.They were so amazing that i cannot have a particular word to describe them.They challange us to 
-increase our knowledge that is the best part of it.The tasks are designed to cultivate the habit of self learning in which they are 
-successful atleast in my case.
+I myself,have not completed the tasks, so I cannot say at overall level. I read the tasks more than once to get a start, looking for the easiest 😅. It taught me how to learn by self at an extent.
+I have seen a lot of changes after doing these tasks. The tasks was an extra level of learning for the freshers like me. 
 ## My Introduction
-Hii Seniors :pray: I am Ankit Karki from Palpa,Nepal.I came to know about amFOSS from quora since then it fascinated me.
-I feel the club will provide me ample opportunities to develop my skills and knowledge.I am a noob in the field of coding and I only knew 
-JAVA to an extent but after attempting the tasks I personally find a great improvement in my knowledge this is what I basically want from 
-me that each day when I get up in the morning I find myself improved than the previous day and this is what doing the tasks i have achieved.
+Hello Seniors!
+🙏 I am Ankit Karki from Palpa,Nepal. I am an explorer in the field of coding. I started to know about my interest in computer science from class 11.
+I am exploring all the domains in CS like Web Development, Blockchain Technology, Data Science,etc to know which domain suits me. To enhance the knowledge and skills, I create projects as well as participate in hackathons.
